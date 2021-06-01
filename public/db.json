@@ -1,0 +1,194 @@
+  {
+    "providers": [
+      {
+        "id": "1",
+        "avatar": "https://images.unsplash.com/photo-1553267751-1c148a7280a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Michał Parzuchowski",
+        "title": "Директор",
+        "job": "Director"
+      },
+      {
+        "id": "2",
+        "avatar": "https://images.unsplash.com/photo-1568493021943-4077b55c95a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+        "name": "Newton Ortiz",
+        "title": "Менеджер",
+        "job": "Manager"
+      },
+      {
+        "id": "3",
+        "avatar": "https://images.unsplash.com/photo-1560241804-02b7b1bc9d55?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=628&q=80",
+        "name": "Leonel Hernandez Arteaga",
+        "title": "Менеджер",
+        "job": "Manager"
+      },
+      {
+        "id": "4",
+        "avatar": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Ludovic Migneault",
+        "title": "Аналитик",
+        "job": "Analyst"
+      },
+      {
+        "id": "5",
+        "avatar": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80",
+        "name": "Bruce Mars",
+        "title": "Аналитик",
+        "job": "Analyst"
+      },
+      {
+        "id": "6",
+        "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
+        "name": "Julian Wan",
+        "title": "Аналитик",
+        "job": "Analyst"
+      },
+      {
+        "id": "7",
+        "avatar": "https://images.unsplash.com/photo-1583760919595-270997d7726a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80",
+        "name": "Paul Castanié",
+        "title": "Фронтенд-разработчик",
+        "job": "Developer"
+      },
+      {
+        "id": "8",
+        "avatar": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=922&q=80",
+        "name": "Samuel Raita",
+        "title": "Фронтенд-разработчик",
+        "job": "Developer"
+      },
+      {
+        "id": "9",
+        "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Albert Dera",
+        "title": "Фронтенд-разработчик",
+        "job": "Developer"
+      },
+      {
+        "id": "10",
+        "avatar": "https://images.unsplash.com/photo-1591084728795-1149f32d9866?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+        "name": "Philipp Wüthrich",
+        "title": "Бэкенд-разработчик",
+        "job": "Developer"
+      },
+      {
+        "id": "11",
+        "avatar": "https://images.unsplash.com/photo-1580518324671-c2f0833a3af3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Andre Sebastian",
+        "title": "Бэкенд-разработчик",
+        "job": "Developer"
+      },
+      {
+        "id": "12",
+        "avatar": "https://images.unsplash.com/photo-1577744168855-0391d2ed2b3a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "name": "Patrick Daley",
+        "title": "Фулстек-разработчик",
+        "job": "Developer"
+      },
+      {
+        "id": "13",
+        "avatar": "https://images.unsplash.com/photo-1579987102269-ac45dafda12c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=719&q=80",
+        "name": "Meysam Jarahkar",
+        "title": "Консультант",
+        "job": "Consultant"
+      },
+      {
+        "id": "14",
+        "avatar": "https://images.unsplash.com/photo-1580518337843-f959e992563b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+        "name": "Andre Sebastian",
+        "title": "Консультант",
+        "job": "Consultant"
+      },
+      {
+        "id": "15",
+        "avatar": "https://images.unsplash.com/photo-1580707549480-5add4d758cbf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Nathan Dumlao",
+        "title": "Администратор",
+        "job": "Administrator"
+      },
+      {
+        "id": "16",
+        "avatar": "https://images.unsplash.com/photo-1544395465-d078f04f8a26?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Noah Black",
+        "title": "Системный Администратор",
+        "job": "Administrator"
+      },
+      {
+        "id": "17",
+        "avatar": "https://images.unsplash.com/photo-1559564424-d74d093d5b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=633&q=80",
+        "name": "Damon Hall",
+        "title": "Администратор баз данных",
+        "job": "Administrator"
+      },
+      {
+        "id": "18",
+        "avatar": "https://images.unsplash.com/photo-1615109398623-88346a601842?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Charlie Green",
+        "title": "Дизайнер",
+        "job": "Designer"
+      },
+      {
+        "id": "19",
+        "avatar": "https://images.unsplash.com/photo-1615899486509-84e2c782b0da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=637&q=80",
+        "name": "Andrew Davie",
+        "title": "Дизайнер",
+        "job": "Designer"
+      },
+      {
+        "id": "20",
+        "avatar": "https://images.unsplash.com/photo-1587314985043-90fccef9a556?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Logan Weaver",
+        "title": "Тестировщик",
+        "job": "Tester"
+      },
+      {
+        "id": "21",
+        "avatar": "https://images.unsplash.com/photo-1619190219732-18141c39b26b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "name": "Jany Rutherford",
+        "title": "Тестировщик",
+        "job": "Tester"
+      }
+  ],
+
+  "jobs": [
+    {
+      "id":1,
+      "jobId":"Director",
+      "title":"Директор"
+    },
+    {
+      "id":2,
+      "jobId":"Manager",
+      "title":"Менеджер"
+    },
+    {
+      "id":3,
+      "jobId":"Administrator",
+      "title":"Администратор"
+    },
+    {
+      "id":4,
+      "jobId":"Analyst",
+      "title":"Аналитик"
+    },
+    {
+      "id":5,
+      "jobId":"Designer",
+      "title":"Дизайнер"
+    },
+    {
+      "id":6,
+      "jobId":"Developer",
+      "title":"Разработчик"
+    },
+    {
+      "id":7,
+      "jobId":"Consultant",
+      "title":"Консультант"
+    },
+    {
+      "id":8,
+      "jobId":"Tester",
+      "title":"Тестировщик"
+    }
+  ]
+}

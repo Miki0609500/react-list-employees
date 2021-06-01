@@ -1,0 +1,25 @@
+.card {
+  display: flex;
+  width: 300px;
+  height: 80px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.card img {
+  width: 85px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.info-employer {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-employer span {
+  font-size: 16px;
+  font-weight: 700;
+  padding: 10px;
+}
