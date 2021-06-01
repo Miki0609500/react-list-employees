@@ -8,6 +8,6 @@ export const jobsAPI = {
 
 export const employeesAPI = {
   getEmployees(category, text){
-    return axios.get(`http://localhost:3001/providers?${category !== null ? `job=${category}` : ''}&${text && `q=${text}`}`)
+    return axios.get(`http://localhost:3001/providers?${category !== null ? `job=${category}` : ''}`)
   }
 }
